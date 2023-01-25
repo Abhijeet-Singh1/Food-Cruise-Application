@@ -1,5 +1,5 @@
 # FOOD-CRUISE-APPLICATION
-1. It is a web application which lets you order and delivers food just by sitting at your comfort.
+1. It is a web application which lets user order and delivers food just by sitting at their comfort.
 2. It is developed for UWM students since they can order food from restaurants that are inside the university campus and it will be delivered to their housing.
 3. This saves a lot of time as students no need to waste their time standing in queues to take their food and is especially beneficial during Covid time. 
 
