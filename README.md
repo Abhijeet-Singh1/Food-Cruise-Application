@@ -13,7 +13,7 @@ It is developed using Node.js, Express.js, EmbeddedJS, Tailwind CSS and MongoDB
 ![image](https://user-images.githubusercontent.com/24964774/214509167-515b11ac-d079-466e-8fff-2286c31fb85d.png)
 
 
-![image](https://user-images.githubusercontent.com/24964774/214509095-1fadfd7b-cefb-4c86-b0a2-938b990bdbb0.png)
+![image](https://user-images.githubusercontent.com/24964774/214509267-2b25264e-d68c-4ff5-ae8c-b3c2be8fff2d.png)
 
 
 ![image](https://user-images.githubusercontent.com/24964774/214509213-7015e81d-d229-443d-a1d5-91da8758b75b.png)
