@@ -3,8 +3,6 @@
 2. It is developed for UWM students since they can order food from restaurants that are inside the university campus and it will be delivered to their housing.
 3. This saves a lot of time as students no need to waste their time standing in queues to take their food and is especially beneficial during Covid time. 
 
-It is developed using Node.js, Express.js, EmbeddedJS, Tailwind CSS and MongoDB
-
 
 ![image](https://user-images.githubusercontent.com/24964774/214509152-cd59cd80-d63b-43f7-917b-56758170a9a6.png)
 
