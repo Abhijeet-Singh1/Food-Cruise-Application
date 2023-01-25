@@ -1,8 +1,7 @@
 # FOOD-CRUISE-APPLICATION
-- This is a web application which lets you order food.
-- It is catered towards university students (UWM students).
-- It bridges the niche of ordering the food inside the campus.
-- This saves a lot of time as students no need to waste their time standing in queues to take their food and is especially beneficial during Covid time. 
+1. It is a web application which lets you order and delivers food just by sitting at your comfort.
+2. It is developed for UWM students since they can order food from restaurants that are inside the university campus and it will be delivered to their hostel.
+3. This saves a lot of time as students no need to waste their time standing in queues to take their food and is especially beneficial during Covid time. 
 
 It is developed using Node.js, Express.js, EmbeddedJS, Tailwind CSS and MongoDB
 
